@@ -4,14 +4,6 @@
 - Check my flutter package [flutter_easy_table](https://pub.dev/packages/flutter_easy_table)
 - I am currently sharpening my skills
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahateber95&count_private=true&show_icons=true&theme=cobalt&include_all_commits)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahateber95&layout=compact&langs_count=10&hide=html,css,cmake,sass,scss)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tahateber95&repo=AspNetCoreFileUpload)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 
 ## Reach me on:
 <p>
